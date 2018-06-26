@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>3.1 Testing</title>
+	<title>Basic Auth 3.1 Testing</title>
 	<atom:link href="https://growthhacker.agency/feed/" rel="self" type="application/rss+xml" />
 	<link>https://growthhacker.agency</link>
-	<description>WP Static HTML Testing - 3.1 Testing</description>
+	<description>Basic Auth - WP Static HTML Testing - 3.1 Testing</description>
 	<lastBuildDate>Sat, 23 Jun 2018 11:52:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
